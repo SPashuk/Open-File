@@ -5,7 +5,7 @@
 # каталоги для выходных данных сборки
 /bin
 /target
-.ipynb
-.log
-.lock
-.tmp
+*.ipynb
+*.log
+*.lock
+*.tmp

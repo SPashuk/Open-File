@@ -1,7 +1,6 @@
 from pprint import pprint
 import os
 
-#*****************************
 path_dir = "D:/CODE/FILE-OPEN/files/"
 file_in_dir = os.listdir(path_dir)
 
